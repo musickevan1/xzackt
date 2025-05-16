@@ -20,7 +20,7 @@ This repository serves as a portfolio reference for the deployed version of the 
 - PostgreSQL (original database design)
 - Tailored admin tools (internal use only)
 
-## 🙋 About the Developer
+## 🙋‍♂️ About the Developer
 
 Created and maintained by [Evan Musick](https://www.linkedin.com/in/evan-musick-49ba15187).  
 📖 Articles: [Medium](https://medium.com/@evanmusick.dev)  

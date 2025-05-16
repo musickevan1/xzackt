@@ -1,6 +1,6 @@
-# XZACT Real Estate Website
+# XZACKT Real Estate Website
 
-Welcome to the official repository for **XZACT Real Estate** — a modern, elegant web presence built to showcase properties and connect buyers with trusted agents.
+Welcome to the official repository for **XZACKT Real Estate** — a modern, elegant web presence built to showcase properties and connect buyers with trusted agents.
 
 🌐 **Live Website**: [www.xzackt.com](https://www.xzackt.com)
 
